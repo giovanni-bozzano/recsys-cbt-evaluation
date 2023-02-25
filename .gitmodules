@@ -1,0 +1,8 @@
+[submodule "framework"]
+	path = framework
+	url = https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation.git
+	ignore = dirty
+[submodule "pyfm"]
+	path = pyfm
+	url = https://github.com/coreylynch/pyFM.git
+	ignore = dirty
